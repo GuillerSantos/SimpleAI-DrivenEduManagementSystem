@@ -1,0 +1,6 @@
+@SimpleAI_DrivenEduManagementSystem.Server_HostAddress = http://localhost:5124
+
+GET {{SimpleAI_DrivenEduManagementSystem.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

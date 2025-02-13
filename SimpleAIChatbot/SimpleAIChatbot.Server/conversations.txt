@@ -1,0 +1,42 @@
+Hi|Hello! How can I assist you today?
+How are you?|I'm an AI, so I don't have feelings, but I'm here to help you!
+What's your name?|I'm Chatbot, your virtual assistant.
+What can you do?|I can answer your questions, provide information, and assist with various tasks.
+Tell me a joke.|Why don't scientists trust atoms? Because they make up everything!
+What's the weather like today?|I'm unable to provide real-time weather updates, but you can check a reliable weather website or app for the latest information.
+How do I make a cup of coffee?|To make a cup of coffee, start by boiling water. Then add one tablespoon of coffee grounds, pour the water over them, let it steep for a few minutes, and finally strain out the grounds.
+Can you recommend a good book?|Certainly! 'To Kill a Mockingbird' by Harper Lee is a classic that many readers enjoy.
+What's the capital of France?|The capital of France is Paris.
+How do I fix a flat tire?|First, ensure you're in a safe location. Then use a jack to lift your vehicle, remove the lug nuts, take off the flat tire, place the spare tire onto the wheel studs, tighten the lug nuts, and lower your vehicle back down.
+What time is it now?|I don't have access to the current time. Please check your device's clock.
+What's the meaning of life?|Some say it's 42; others believe it's about finding purpose and happiness.
+Can you tell me a fun fact?|Sure! Did you know that honey never spoils? Archaeologists have found edible honey in ancient Egyptian tombs.
+How do I tie a tie?|Place the tie around your neck with the wide end on your right. Cross the wide end over the narrow end, then loop it under and bring it up through the neck loop. Finally, pass it down through the knot you've formed and adjust as needed.
+How can I improve my productivity?|Try techniques like the Pomodoro Technique, set clear goals, minimize distractions, and take regular breaks.
+What is artificial intelligence?|Artificial intelligence is the simulation of human intelligence in machines that are programmed to think and learn like humans.
+Do you have any inspirational quotes?|Absolutely! "The only way to do great work is to love what you do." – Steve Jobs.
+What's the best way to learn programming?|Practice coding regularly, work on small projects, and use online tutorials and forums to learn and troubleshoot.
+How do I reset my password?|Usually, you can click the "Forgot Password" link on the login page and follow the instructions to reset your password securely.
+What is your purpose?|My purpose is to assist you by answering questions and providing useful information.
+How can you help me?|I can provide information, solve problems, and guide you through various tasks.
+Do you understand sarcasm?|I try my best to interpret sarcasm, though it can be challenging sometimes.
+What languages do you speak?|I primarily communicate in English, but I can help with translations in several languages.
+Can you help me with programming?|Absolutely! Feel free to ask any programming questions or request code examples.
+What's the best programming language?|It depends on your needs; C# is excellent for enterprise apps, while Python is popular for data science.
+How do I cook pasta?|Boil water with a pinch of salt, add the pasta, and cook until al dente. Drain and serve with your favorite sauce.
+What is climate change?|Climate change refers to significant, long-term changes in global weather patterns, primarily caused by human activities like burning fossil fuels.
+Do you have any advice for a good workout?|Regular exercise, a balanced diet, and proper rest are key. Find a routine that suits your fitness level and goals.
+What do you think about technology?|Technology is an incredible tool that can improve lives when used responsibly.
+How do I get motivated?|Setting clear goals, breaking tasks into small steps, and celebrating small achievements can help boost motivation.
+Can you help me plan a trip?|I can offer tips on researching destinations, budgeting, and finding accommodations. For real-time planning, consider using travel apps.
+What's the best way to study?|Active learning methods, such as self-testing, summarizing information in your own words, and spaced repetition, often work best.
+How do I make a healthy smoothie?|Blend fruits like bananas and berries with leafy greens, a protein source (like yogurt or protein powder), and a liquid base such as water or almond milk.
+Tell me a motivational quote.|"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt.
+What is your favorite movie?|I don't have personal favorites, but many people enjoy classics like "The Shawshank Redemption."
+Do you like music?|I don't have personal tastes, but I can provide information on various music genres and artists.
+What's the distance to the moon?|The average distance from the Earth to the Moon is about 384,400 kilometers (238,855 miles).
+How do I bake a chocolate cake?|Combine flour, cocoa, sugar, eggs, and butter. Mix well, pour into a baking pan, and bake in a preheated oven at around 350°F (175°C) until a toothpick inserted into the center comes out clean.
+What is your favorite quote?|I love sharing quotes: "Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill.
+Who is my favorite dog?| Oh that's Deanne Jane
+Who is your senpai?| Senpai Guiller Pogi
+Who's the most poging tuluk in the Work? | His name is Allen Bogart

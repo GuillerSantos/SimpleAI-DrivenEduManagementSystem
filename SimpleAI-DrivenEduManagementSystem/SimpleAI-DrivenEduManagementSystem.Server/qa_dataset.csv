@@ -1,0 +1,11 @@
+Question,Answer
+What is .NET?,It is a framework developed by Microsoft for building applications.
+What is MongoDB?,MongoDB is a NoSQL database that stores data in JSON-like documents.
+What is Blazor?,Blazor is a UI framework for building interactive web apps using C# and .NET.
+How does ML.NET work?,ML.NET is a machine learning framework for .NET applications.
+What is ASP.NET Core?,ASP.NET Core is a cross-platform framework for building web applications and APIs.
+Explain dependency injection in .NET,Dependency injection is a design pattern used to manage dependencies in .NET applications.
+What is Docker?,Docker is a containerization platform that packages applications with their dependencies.
+How to connect MongoDB to .NET?,Use the MongoDB.Driver package to connect MongoDB to a .NET application.
+What is REST API?,A REST API follows REST principles to enable communication between client and server.
+What is a WebSocket?,A WebSocket is a communication protocol for real-time bidirectional data transfer.

@@ -1,0 +1,51 @@
+﻿@page "/"
+@inherits HomeBase
+
+<MudPaper Elevation="5" Class="pa-4">
+    <MudText Typo="Typo.h5">Chat with our AI Assistant</MudText>
+
+    <MudContainer Class="gap-3">
+        <MudContainer Class="d-flex gap-3">
+            <MudTextField @bind-Value="UserMessage"
+                          Variant="Variant.Outlined"
+                          Placeholder="Type your message..."
+                          OnKeyDown="HandleKeyDownAsync"
+                          Adornment="Adornment.End"
+                          AdornmentIcon="send"
+                          OnAdornmentClick="SendMessageAsync"
+                          Immediate="true" />
+
+            <MudButton Variant="Variant.Filled" Color="Color.Primary" OnClick="SendMessageAsync">Search</MudButton>
+        </MudContainer>
+
+        <MudDivider Class="my-2" />
+
+        <MudCard Class="chat-box">
+            <MudCardContent>
+                <div class="chat-history">
+                    @foreach (var (sender, message) in ChatHistory)
+                    {
+                        <MudText Typo="Typo.body1"><strong>@sender:</strong> @message</MudText>
+                    }
+                </div>
+            </MudCardContent>
+        </MudCard>
+    </MudContainer>
+</MudPaper>
+
+
+<style>
+    .chat-box {
+        max-height: 300px;
+        overflow-y: auto;
+        padding: 10px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+    }
+
+    .chat-history {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+</style>
